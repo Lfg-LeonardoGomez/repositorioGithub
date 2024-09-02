@@ -1,3 +1,5 @@
 "mi proyecto"
-"a¤adiendo nuevo contenido en la rama"
-"modifico readme desde la rama nueva funcionalidad"
+"aï¿½adiendo nuevo contenido en la rama"
+=======
+"modificacion de readme en la rama main"
+>>>>>>> master
